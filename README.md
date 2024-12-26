@@ -11,4 +11,9 @@
   </tr>
 </table>
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomoya092013&theme=2077" width="100%"/>
-      
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,swift,react,ts,vscode,html,css,js,vite" />
+  </a
+</p>
