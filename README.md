@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,swift,react,ts,vscode,html,css,js,vite" />
+    <img src="https://skillicons.dev/icons?i=aws,apple,swift,python,react,ts,vscode,html,css,js,vite" />
   </a
 </p>
